@@ -1,22 +1,22 @@
 # Site settings
-title: Another Blog
-url: "http://laobubu.github.io"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
-baseurl: "/jekyll-theme-EasyBook" # the prefix of your site uri, eg. `/jekyll-theme-EasyBook` or just one slash `/`
+title: Hidden Truth Revealed
+url: "http://truthishere.github.io"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
+baseurl: "/hiddentruth" # the prefix of your site uri, eg. `/jekyll-theme-EasyBook` or just one slash `/`
 #timezone: Asia/Chongqing
 description: >
-  One or more sentences introducing this blog.
+  Try to counter spread of falsehood to suppress and divide people.
 
 # Your information
-email: your_email@example.com
-author: your_name
+email: marasu1976@gmail.com
+author: Wellwisher
 avatar: "//www.gravatar.com/avatar/your_email_md5?d=mm&s=135"
-profile: One sentence introducing yourself.
+profile: True patriot
 #twitter_username: twitter_username
 #github_username:  github_username
 
 # Comment Service (Disqus or 多说)
 #  choose one and un-comment the line to active it
-#disqus_shortname: xxx   # get one: https://disqus.com/admin/signup/
+disqus_shortname: xxx   # get one: https://disqus.com/admin/signup/
 #duoshuo_shortname: xxx  # get one: http://duoshuo.com/create-site/
 
 permalink: /archivers/:title
